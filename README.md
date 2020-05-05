@@ -28,4 +28,4 @@ Observation 3: There are more male subscribers and customers than female, but th
 The dynamic map of the locations of all bike stations and their popularity across months clearly shows that the most popular bike stations are all in the city center.  Bike stations outside of the city center are used less frequently, particularly in the winter months.
 
 # Tableau Story
-Please go to https://public.tableau.com/profile/melanie.follett#!/vizhome/tableau-challenge_15875944466250/TheEffectofSeasonandSubscriptionStatusonCitiBikeUse?publish=yes to view the entire Tableau Story and please see the report in this repo for further discussion on the trends observed.
+Please go to https://public.tableau.com/profile/melanie.follett#!/vizhome/tableau-challenge_15875944466250/CityOfficialMap to view the entire Tableau Story and please see the report in this repo for further discussion on the trends observed.
