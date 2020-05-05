@@ -3,7 +3,7 @@
 Since 2013, the Citi Bike Program has implemented a robust infrastructure for collecting data on the program's utilization. Through the team's efforts, each month bike data is collected, organized, and made public on the Citi Bike Data webpage.  However, while the data has been regularly updated, the team has yet to implement a dashboard or sophisticated reporting process. City officials have a number of questions on the program, so my task for this project was to build a set of data reports to provide the answers.
 
 # Overview of Project
-My first task was to aggregate the data found in the Citi Bike Trip History Logs and find two unexpected phenomena.  I followed this by designing 4 visualizations for each discovered phenomena (8 total). I then created stories and a dashboard using Tableau to tell a story using the data.
+My first task was to aggregate the data found in the Citi Bike Trip History Logs and find two unexpected phenomena.  I followed this by designing 3-4 visualizations for each discovered phenomena (7 total). I then created a dashboard for each phenomenon and an overall story using Tableau, as well as compiled a report describing and explaining the phenomena observed.
 
 # Data Source
 The data used for this analysis was collected from the Citi Bike Data webpage. In order to determine the effect of season on bike use, the data from June, July, and August 2019 were compiled to use as the summer months and the data from December 2019,  and January and February 2020 were compiled as the winter months. 
